@@ -8,8 +8,6 @@
 <h3 align="center">Solution Architect & Founder</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KannanKrish&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/KannanKrish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KannanKrish&theme=" alt="https://github.com/KannanKrish" /></a> </p>
-
 - 🔭 I’m currently working on [Brushtail Technology Website](https://brushtailtech.com/)
 - 🌱 I’m currently learning **MAUI**
 - 💬 Ask me about **Xamarin, Maui, Asp.net Core, Blazor, Project Structure**
