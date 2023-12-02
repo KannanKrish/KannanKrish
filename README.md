@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/kannankrish">
+    <img src="https://github.com/kannankrish.png?size=200">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kannan</h1>
 <h3 align="center">Solution Architect & Founder</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KannanKrish&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/KannanKrish" /> </p>
@@ -17,6 +23,9 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/brushtailtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="https://twitter.com/brushtailtech" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/kannankrish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kannankrish/" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/himalaya.kannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/himalaya.kannan" height="30" width="40" /></a><a href="https://www.youtube.com/c/https://www.youtube.com/@brushtailtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://www.youtube.com/@brushtailtech" height="30" width="40" /></a><a href="https://www.behance.net/https://www.behance.net/brushtailtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="https://www.behance.net/brushtailtech" height="30" width="40" /></a></p>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kannankrish&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kannankrish&count_private=true&theme=tokyonight&showicons=true)]()
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
